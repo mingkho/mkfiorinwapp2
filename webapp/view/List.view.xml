@@ -30,7 +30,7 @@
                     </OverflowToolbar>
                 </headerToolbar>
                 <items>
-                    <ObjectListItem type="Navigation" press=".onSelectionChange" title="{ProductName}" number="{                             path: 'UnitPrice',                             formatter: '.formatter.numberUnit'                         }" unit="{ReorderLevel}" intro="{ProductID}"/>
+                    <ObjectListItem type="Navigation" press=".onSelectionChange" title="{ProductName}" number="{                             path: 'UnitPrice',                             formatter: '.formatter.numberUnit'                         }" unit="{ReorderLevel}"/>
                 </items>
             </List>
         </semantic:content>
