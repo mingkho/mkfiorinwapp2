@@ -2,7 +2,7 @@
 
     <semantic:SemanticPage id="listPage" preserveHeaderStateOnScroll="true" toggleHeaderOnTitleClick="false">
         <semantic:titleHeading>
-            <Title id="listPageTitle" text="{listView>/title}" level="H2"/>
+            <Title id="listPageTitle" text="{listView>/title} 2" level="H2"/>
         </semantic:titleHeading>
         <semantic:content>
             <!-- For client side filtering add this to the items attribute: parameters: {operationMode: 'Client'}}" -->
