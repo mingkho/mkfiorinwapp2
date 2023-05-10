@@ -1,4 +1,4 @@
-## Application Details For Their App For My App
+## Application Details 1
 |               |
 | ------------- |
 |**Generation Date and Time**<br>Sat Mar 18 2023 07:41:09 GMT+0000 (Coordinated Universal Time)|
